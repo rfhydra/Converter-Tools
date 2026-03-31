@@ -1,1 +1,1 @@
-This is tool to convert custom extension to readable text
+This is tool to convert your XLSX into query in sql
